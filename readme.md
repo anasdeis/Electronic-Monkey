@@ -1,9 +1,9 @@
 ## Description 
-**Electronic Monkey** ![monkey](/uploads/1cb55cfc47a1fc8e1d8157794f93d3b1/monkey.png) is an Online buy and sell application, built with Spring Boot for the backend and Angular for the frontend.
+**Electronic Monkey** ![Monkey](https://user-images.githubusercontent.com/35753718/133340451-139c78fe-6f43-4359-b5f2-fdc2921bffd3.PNG) is an Online buy and sell application, built with Spring Boot for the backend and Angular for the frontend.
 
 ## Requirements
 1. Java 11
-2. Maven -3.x.x
+2. Maven 3.x.x
 3. MongoDB 5.0
 4. MySQL 8.0
 
@@ -19,26 +19,26 @@ git clone https://gitlab-cgi.stackroute.in/cgi-canada-wave1-capstone-projects/on
     *     Run eureka-service. It will start at http://localhost:8761/.
     *     Run api-gateway-service. It will start at http://localhost:8080/.
     *     Run userservice. It will start at http://localhost:8090/.
-    *     Run orderservice. It will start at http://localhost:8880/.
     *     Run catalogservice. It will start at http://localhost:8800/.
+    *     Run orderservice. It will start at http://localhost:8880/.
 
 3. Run the frontend app using npm with VSCode
     *  `cd webApp`    
     *  `npm install`
     *  Run `ng serve -o` for a dev server. Navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files.
-    ![login_PAge](/uploads/28161f45d51c322e329d270646b1c2f6/login_PAge.PNG)
+    ![Login](https://user-images.githubusercontent.com/35753718/133340485-c56a0449-b4c4-4341-a2cd-bac9e24c8c81.png)
 
 
 
 
     * Click the sign up button and fill the form to create an acount. 
-    ![sign_up_page](/uploads/8c25bae23d5394f6e6ac5456a426f2b4/sign_up_page.PNG)
+    ![Signup](https://user-images.githubusercontent.com/35753718/133340502-10c8021f-8ccf-4160-aa83-b3b2f4af1a7f.png)
     
 
 
     
-    * login in with the new account to use the app ! 
-    ![Dashboard](/uploads/f41fde372071705aec12920f434f6995/MicrosoftTeams-image__3_.png)
+    * Login in with the new account to use the app ! 
+    ![Dashboard](https://user-images.githubusercontent.com/35753718/133340510-82e583b9-4389-4405-9948-19f98b849c88.PNG)
 
 ## Swagger API
 For API Documentation and direct interactions with the backend app using Swagger, navigate to **http://localhost:xxxx/swagger-ui/**                                                                                                                                     
